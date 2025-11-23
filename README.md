@@ -55,6 +55,5 @@ It converts long URLs into short codes and also tracks how many times a link was
 ```
 
 ### Run the Flask app
-```json
 python app.py
-```
+
